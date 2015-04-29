@@ -13,4 +13,7 @@ Just some attempts to use the API to gather game data files by turn and generate
 
 20-PlanetStocks.R
     Simple plotting script to look at what resources are accumulating on planets or what resources are being transported by frieghters. Uses ggplot2 package. 
-    
+
+
+PNG files are example data plots.
+
