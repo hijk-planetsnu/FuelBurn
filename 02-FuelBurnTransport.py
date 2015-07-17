@@ -29,6 +29,8 @@ import json, urllib, urllib2, gzip, StringIO
 # To better look inside the json file, here's a quick way to dump contents
 #   with an indented format that makes the nested data structure easier
 #   to interpret.
+#       gameJson = json.loads(jsonRaw)
+#       json.dumps(gameJson, indent=4)
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 gameData = '00-GameData/'
 gameName = '127256-SmithsWorld'
